@@ -5,5 +5,6 @@ git clone https://github.com/Free-TV/IPTV.git
 cd $HOME/IPTV
 wget https://raw.githubusercontent.com/riqueenz/IPTV-1/enz/1Enz.md
 mv brazil.md 2brazil.md
+mv france.md 3france.md
 python3 make_playlist.py
 git add make_playlist.py
