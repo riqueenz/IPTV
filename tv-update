@@ -1,0 +1,8 @@
+sudo apt update
+sudo apt install -y git wget python3
+cd $HOME
+git clone https://github.com/Free-TV/IPTV.git
+cd $HOME/IPTV
+wget https://raw.githubusercontent.com/riqueenz/IPTV-1/enz/1Enz.md
+python3 make_playlist.py
+git add make_playlist.py
