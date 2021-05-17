@@ -9,5 +9,4 @@
 | 5   | Red Bull TV | [>](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | <img height="20" src="https://i.imgur.com/A4GMBN6.png"/> |
 | 6   | CNews       | [>](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/itelevisionlive-12477/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Canal_News_logo.svg.png/87px-Canal_News_logo.svg.png"/> |
 | 7   | L'Équipe    | [>](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/79px-L%27%C3%89quipe_wordmark.svg.png"/> |
-| 8   | SBT-PE    | [>](http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/SBT_logo.svg"/> |
-| 9   | SBT-MS    | [>](http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8) | <img height="20" src="https://listaiptvbrasil.com/logo/bemtv.png"/> |
+| 9   | SBT    | [>](http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8) | <img height="20" src="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png"/> |
