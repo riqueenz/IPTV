@@ -10,3 +10,5 @@
 | 6   | CNews       | [>](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/itelevisionlive-12477/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Canal_News_logo.svg.png/87px-Canal_News_logo.svg.png"/> |
 | 7   | L'Équipe    | [>](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/79px-L%27%C3%89quipe_wordmark.svg.png"/> |
 | 9   | SBT    | [>](http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8) | <img height="20" src="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png"/> |
+| 10   | ALL Sports Brasil | [>](https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/wULpnYR.png"/> |
+| 11   | COM Brasil | [>](https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8) | <img height="20" src="https://i.imgur.com/c8ztQnF.png"/> |
