@@ -19,6 +19,10 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://i.imgur.com/wNbxgqe.png" group-title="Enz",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 tvg-name="TV Cultura" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="Enz",TV Cultura
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:-1 tvg-name="UniTV UFRGS" tvg-logo="http://www.ufrgs.br/unitv/images/logo.png" group-title="Enz",UniTV UFRGS
+http://unitvaovivo.ufrgs.br:8080/live.ogg
 #EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Brazil",ALL Sports Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="Brazil",COM Brasil
