@@ -12,3 +12,5 @@
 | 8 | NASA TV Public | [>](https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> |
 | 9 | NASA TV Media  | [>](https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> |
 | 10  | Sky News    | [>](https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8) | <img height="20" src="https://i.imgur.com/wNbxgqe.png"/> |
+| 11  | TV Cultura  | [>](http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8) | <img height="20" src="https://i.imgur.com/5jPEI5c.png"/> |
+| 12  | UniTV UFRGS  | [>](http://unitvaovivo.ufrgs.br:8080/live.ogg) | <img height="20" src="http://www.ufrgs.br/unitv/images/logo.png"/> |
