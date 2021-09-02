@@ -11,7 +11,7 @@
 | 7   | Red Bull TV | [>](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | <img height="20" src="https://i.imgur.com/A4GMBN6.png"/> |
 | 8  | Sky News    | [>](https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8) | <img height="20" src="https://i.imgur.com/wNbxgqe.png"/> |
 | 9   | SBT    | [>](http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8) | <img height="20" src="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png"/> |
-| 10  | Rede Globo  | [>](http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8) | <img height="20" src="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png"/> |
+| 10  | Rede Globo  | [>](http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8) | <img height="20" src="https://cdn.mitvstatic.com/channels/globo_m.jpg"/> |
 | 11   | ALL Sports Brasil | [>](https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/wULpnYR.png"/> |
 | 12   | COM Brasil | [>](https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8) | <img height="20" src="https://i.imgur.com/c8ztQnF.png"/> |
 | 13  | TV Cultura  | [x](http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8) | <img height="20" src="https://i.imgur.com/5jPEI5c.png"/> |
