@@ -11,9 +11,10 @@
 | 7   | Red Bull TV | [>](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | <img height="20" src="https://i.imgur.com/A4GMBN6.png"/> |
 | 8  | Sky News    | [>](https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8) | <img height="20" src="https://i.imgur.com/wNbxgqe.png"/> |
 | 9   | SBT    | [>](http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8) | <img height="20" src="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png"/> |
-| 10   | ALL Sports Brasil | [>](https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/wULpnYR.png"/> |
-| 11   | COM Brasil | [>](https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8) | <img height="20" src="https://i.imgur.com/c8ztQnF.png"/> |
-| 12  | TV Cultura  | [x](http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8) | <img height="20" src="https://i.imgur.com/5jPEI5c.png"/> |
-| 13  | BFM Business | [>](https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8) | <img height="20" src="https://i.imgur.com/mihujKt.jpg"/> |
-| 13  | BFM Lyon  | [>](https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8) | <img height="20" src="https://i.ibb.co/8Y3FB3B/LYON.png"/> |
-| 14  | TF1 | [>](http://stream.tvtap.net:8081/live/fr-tf1.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/CJAbJfM.png"/> |
+| 10  | SBT    | [>](http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8) | <img height="20" src="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png"/> |
+| 11   | ALL Sports Brasil | [>](https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/wULpnYR.png"/> |
+| 12   | COM Brasil | [>](https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8) | <img height="20" src="https://i.imgur.com/c8ztQnF.png"/> |
+| 13  | TV Cultura  | [x](http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8) | <img height="20" src="https://i.imgur.com/5jPEI5c.png"/> |
+| 14  | BFM Business | [>](https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8) | <img height="20" src="https://i.imgur.com/mihujKt.jpg"/> |
+| 15  | BFM Lyon  | [>](https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8) | <img height="20" src="https://i.ibb.co/8Y3FB3B/LYON.png"/> |
+| 16  | TF1 | [>](http://stream.tvtap.net:8081/live/fr-tf1.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/CJAbJfM.png"/> |
