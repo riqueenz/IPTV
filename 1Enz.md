@@ -14,4 +14,6 @@
 | 10   | ALL Sports Brasil | [>](https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/wULpnYR.png"/> |
 | 11   | COM Brasil | [>](https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8) | <img height="20" src="https://i.imgur.com/c8ztQnF.png"/> |
 | 12  | TV Cultura  | [>](http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8) | <img height="20" src="https://i.imgur.com/5jPEI5c.png"/> |
-| 13  | UniTV UFRGS  | [>](http://unitvaovivo.ufrgs.br:8080/live.ogg) | <img height="20" src="http://www.ufrgs.br/unitv/images/logo.png"/> |
+| 13  | BFM Business | [>](https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8) | <img height="20" src="https://i.imgur.com/mihujKt.jpg"/> |
+| 13  | BFM Lyon  | [>](https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8) | <img height="20" src="https://i.ibb.co/8Y3FB3B/LYON.png"/> |
+| 14  | TF1 | [>](http://stream.tvtap.net:8081/live/fr-tf1.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/CJAbJfM.png"/> |
