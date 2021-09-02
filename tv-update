@@ -1,11 +1,12 @@
 sudo apt update
 sudo apt install -y git wget python3 npm ffmpeg
 cd $HOME
-git clone https://github.com/Free-TV/IPTV.git
+git clone https://github.com/riqueenz/IPTV.git
 cd $HOME/IPTV
 wget https://raw.githubusercontent.com/riqueenz/IPTV-1/enz/1Enz.md
 mv brazil.md 2brazil.md
 mv france.md 3france.md
+mv germany.md 4germany.md
 python3 make_playlist.py
 iptv-checker playlist.m3u8
 mv iptv-checker* iptv-checker
