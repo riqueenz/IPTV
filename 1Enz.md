@@ -19,3 +19,7 @@
 | 15  | BFM Lyon  | [>](https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8) | <img height="20" src="https://i.ibb.co/8Y3FB3B/LYON.png"/> |
 | 16  | TF1 | [>](https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8) | <img height="20" src="https://i.imgur.com/CJAbJfM.png"/> |
 | 17  | Alsace 20 | [>](http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8) | <img height="20" src="https://i.imgur.com/S8TuhyF.png"/> |
+| 18  | France 2   | [>](http://edge9.iptvnetwork.net/live/france2/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/35px-France_2_2018.svg.png"/> |
+| 19  | France 3   | [>](http://edge9.iptvnetwork.net/live/france3/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/35px-France_3_2018.svg.png"/> |
+| 20  | France 4   | [>](http://edge9.iptvnetwork.net/live/france4/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/39px-France_4_2018.svg.png"/> |
+| 21  | France 5   | [>](http://edge9.iptvnetwork.net/live/france5/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/35px-France_5_2018.svg.png"/> |
