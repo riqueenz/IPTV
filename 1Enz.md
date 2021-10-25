@@ -23,3 +23,4 @@
 | 19  | France 3   | [>](http://edge9.iptvnetwork.net/live/france3/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/35px-France_3_2018.svg.png"/> |
 | 20  | France 4   | [>](http://edge9.iptvnetwork.net/live/france4/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/39px-France_4_2018.svg.png"/> |
 | 21  | France 5   | [>](http://edge9.iptvnetwork.net/live/france5/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/35px-France_5_2018.svg.png"/> |
+| 22  | Elbekanal  | [>](http://58bd5b7a98e04.streamlock.net/medienasa-live/elbe_high/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IKslrJu.png"/> |
