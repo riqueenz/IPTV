@@ -17,4 +17,5 @@
 | 13  | TV Cultura  | [x](http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8) | <img height="20" src="https://i.imgur.com/5jPEI5c.png"/> |
 | 14  | BFM Business | [>](https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8) | <img height="20" src="https://i.imgur.com/mihujKt.jpg"/> |
 | 15  | BFM Lyon  | [>](https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8) | <img height="20" src="https://i.ibb.co/8Y3FB3B/LYON.png"/> |
-| 16  | TF1 | [x](http://stream.tvtap.net:8081/live/fr-tf1.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/CJAbJfM.png"/> |
+| 16  | TF1 | [>](https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8) | <img height="20" src="https://i.imgur.com/CJAbJfM.png"/> |
+| 17  | Alsace 20 | [>](http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8) | <img height="20" src="https://i.imgur.com/S8TuhyF.png"/> |
