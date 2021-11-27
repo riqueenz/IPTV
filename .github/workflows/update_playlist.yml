@@ -1,0 +1,17 @@
+name: Update playlist
+    
+jobs:
+  update_iptv_enz:
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: actions/checkout@v2
+    - name: installing_requirements
+      run: |
+        sudo snap install snapcraft --classic
+        echo "$STORE_LOGIN" | snapcraft login --with -
+      env:
+        STORE_LOGIN: ${{ secrets.STORE_LOGIN }}
+    - name: build & publish snap
+      run: |
+        sudo snapcraft --enable-experimental-extensions --destructive-mode
+        sudo snapcraft upload --release=edge freecad-ppd*.snap
